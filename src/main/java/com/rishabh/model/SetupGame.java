@@ -1,4 +1,4 @@
-package com.rishabh.service;
+package com.rishabh.model;
 
 import java.util.List;
 

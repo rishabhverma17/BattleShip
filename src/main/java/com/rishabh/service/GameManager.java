@@ -1,6 +1,7 @@
 package com.rishabh.service;
 
 import com.rishabh.model.GameState;
+import com.rishabh.model.IPlayer;
 
 public class GameManager {
     private GameState gameState;

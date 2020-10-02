@@ -1,6 +1,5 @@
 package com.rishabh.model;
 
-import lombok.Builder;
 import lombok.Setter;
 
 import java.util.List;

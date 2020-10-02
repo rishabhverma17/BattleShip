@@ -1,4 +1,6 @@
 package com.rishabh.service;
+import com.rishabh.model.SetupGame;
+
 import java.util.List;
 
 public class SetupGameImpl implements SetupGame {

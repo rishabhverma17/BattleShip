@@ -1,6 +1,8 @@
 package com.rishabh;
 
 import com.rishabh.model.GameState;
+import com.rishabh.model.IPlayer;
+import com.rishabh.model.SetupGame;
 import com.rishabh.service.*;
 
 import java.util.List;
